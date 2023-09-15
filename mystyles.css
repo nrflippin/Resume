@@ -3,6 +3,14 @@ p{
 }
 
 body{
-    background-color: whitesmoke;
+    background-color: rgb(227, 233, 208);
 }
 
+h2{
+    text-shadow: 1px 1px rgb(29, 149, 235)
+} 
+
+img{
+    float:right  
+    padding;inset-inline-end:inherit
+}
